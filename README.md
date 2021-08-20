@@ -27,8 +27,8 @@ Finally, sign up for a GitHub account ([github.com](https://github.com/)) if you
 | 9/14/2021  | Collaborate | [Version control with git II](http://swcarpentry.github.io/git-novice/)  | Jessica |
 | 9/16/2021  | Reproduce | [Project Management](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html),  [Best practices](http://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/index.html), and [Document]() | Kristina |
 | 9/21/2021 | Reproduce | [Data manipulation](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)  | Jessica |
-| 9/23/2021 | Reproduce | [Functions](https://swcarpentry.github.io/r-novice-gapminder/10-functions/index.html)  | Jessica |
-| 9/28/2021 | Reproduce | [Control Flow](https://swcarpentry.github.io/r-novice-gapminder/07-control-flow/index.html) | Kristina |
+| 9/23/2021 | Reproduce | [Functions](https://swcarpentry.github.io/r-novice-gapminder/10-functions/index.html)  | Kristina |
+| 9/28/2021 | Reproduce | [Control Flow](https://swcarpentry.github.io/r-novice-gapminder/07-control-flow/index.html) | Jessica |
 | 9/30/2021 | Publish | [Producing Reports](http://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/index.html)  | Kristina |
 
 
