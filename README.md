@@ -23,7 +23,7 @@ Finally, sign up for a GitHub account ([github.com](https://github.com/)) if you
 | 9/7/2021  | Collaborate | [Shell scripting](http://swcarpentry.github.io/shell-novice/)  | Kristina |
 | 9/9/2021 | Collaborate | [Version control with git I](http://swcarpentry.github.io/git-novice/) | Jessica | 
 | 9/14/2021  | Collaborate | [Version control with git II](http://swcarpentry.github.io/git-novice/)  | Jessica |
-| 9/16/2021  | Reproduce | [Project anagement](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html),  [best practices](http://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/index.html), and [documentation]() | Kristina |
+| 9/16/2021  | Reproduce | [Project management](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html),  [best practices](http://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R/index.html), and [documentation](https://style.tidyverse.org/index.html) | Kristina |
 | 9/21/2021 | Reproduce | [Data manipulation](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)  | Jessica |
 | 9/23/2021 | Reproduce | [Functions](https://swcarpentry.github.io/r-novice-gapminder/10-functions/index.html)  | Kristina |
 | 9/28/2021 | Reproduce | [Control Flow](https://swcarpentry.github.io/r-novice-gapminder/07-control-flow/index.html) | Jessica |
