@@ -1,10 +1,6 @@
 # ESA-SEEDS Critical Skills to Scale Up Ecology
 Welcome to the repo for Data Carpentry portion of the Critical Skills workshop. We will convene on Tuesdays and Thursdays from 3:00 - 5:00 ET, September 7 - 30, 2021. 
 
-We will collaboratively take notes on this [HackMD note](https://hackmd.io/1I-tEmTaReWjZJXrC-OQOA). 
-
-Following the course, please consider completing the [post-workshop survey](https://docs.google.com/forms/d/1mr18jESP-1KXKx6CsrV-H5V5UHp5VIPq1gkuQM75Jls/edit). We learn and improve from your feedback!
-
 ### Organizers
 [Jessica Guo](mailto:jessicaguo@email.arizona.edu), University of Arizona
 
