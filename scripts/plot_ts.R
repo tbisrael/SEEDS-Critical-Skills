@@ -1,4 +1,4 @@
-#Manual data
+# R script to modify data
 d<-read.csv("wp.csv")
 str(d)
 
