@@ -4,3 +4,6 @@
 *.Ruserdata
 *Rproj
 .Rproj.user
+
+# suppress intermediate data
+data_clean/
