@@ -26,3 +26,14 @@ Finally, sign up for a GitHub account ([github.com](https://github.com/)) if you
 | 9/30/2021 | Publish | [Producing Reports](http://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/index.html)  | Kristina |
 
 
+### Project files
+
+* data_raw folder
+  * portal_data_joined.csv: example data from Portal project
+* scripts folder
+  * 01-data-manipulation.R: introduction to dplyr
+  * 02-functions.R: introduction to writing functions
+  * 03-if-and-for.R: writing if and for codes
+  * 04-plotting.R: Plotting with ggplot in R
+* plots folder
+
