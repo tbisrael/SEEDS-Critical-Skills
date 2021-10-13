@@ -28,12 +28,12 @@ Finally, sign up for a GitHub account ([github.com](https://github.com/)) if you
 
 ### Project files
 
-* data_raw folder
-  * portal_data_joined.csv: example data from Portal project
+* `data_raw` folder
+  * `portal_data_joined.csv`: example data from [Portal project](https://portal.weecology.org/)
 * scripts folder
-  * 01-data-manipulation.R: introduction to dplyr
-  * 02-functions.R: introduction to writing functions
-  * 03-if-and-for.R: writing if and for codes
-  * 04-plotting.R: Plotting with ggplot in R
+  * `01-data-manipulation.R`: introduction to dplyr
+  * `02-functions.R`: introduction to writing functions
+  * `03-if-and-for.R`: writing if and for codes
+  * `04-plotting.R`: Plotting with ggplot in R
 * plots folder
 
