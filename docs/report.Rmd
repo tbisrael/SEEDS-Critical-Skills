@@ -1,0 +1,51 @@
+---
+title: "Portal Data Report"
+author: "Israel Borokini"
+date: "10/13/2021"
+output: html_document
+---
+
+
+## Purpose
+Explore population dynamics of rodents at Portal site
+
+This document shows how to:
+1.    Load data from project
+2.    Process into time series
+3.    Make visualizations
+
+## Load in packages
+
+```{r, message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
+## Read in data
+
+```{r}
+data <- read.csv("https://ndownloader.figshare.com/files/2292172")
+head(data)
+```
+
+The data includes `r length(unique(data$species_id))` species
+
+## Create time series analysis
+
+Counts for all species across time
+
+```{r}
+time_series <- data %>%
+  group_by(species_id, year) %>%
+  summarize(count = n())
+head(time_series)
+```
+
+## Plot time series
+
+```{r, message=FALSE, echo=FALSE, cache=TRUE}
+ggplot(time_series, aes(x = year, y = count)) +
+  geom_line() +
+  facet_wrap(~species_id)
+```
+
